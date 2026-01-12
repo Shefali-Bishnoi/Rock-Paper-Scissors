@@ -4,7 +4,7 @@ A simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. Play aga
 
 ## Live Demo
 
-Play the game here: [Tic Tac Toe Game](https://shefali-bishnoi.github.io/Tic-Tac-Toe/)
+Play the game here: [Rock Paper Scissors Game](https://shefali-bishnoi.github.io/Rock-Paper-Scissors/)
 
 
 ## Technologies Used
