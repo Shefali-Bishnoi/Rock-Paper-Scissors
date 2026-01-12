@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: #eef6d6;
+    color:black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    flex-direction: column;
+}
+
+h1{
+    text-align: center;
+    font-size: 8vmin;
+    margin-bottom: 3vmin;
+}
+
+.game{
+    display:flex;
+    text-align: center;
+    display:flex;
+    align-items:center;
+    gap:15vmin;
+}
+
+.players{
+    text-align: center;
+    font-size: 5vmin;
+    display:flex;
+    align-items:center;
+    gap:8vmin;
+}
+
+p{
+    font-size: 4vmin;
+}
+
+.human_player_icons{
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    gap:5vmin;
+}
+.computer_player_icons{
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    gap:5vmin;
+}
+
+#btn{
+    height:8vmin;
+    width:15vmin;
+    border-radius: 1.5rem;
+    margin-top: 1rem;
+    font-size: 3vmin;
+}
+
+img{
+    height:20vmin;
+    width:20vmin;
+}
+
+.human_icon:hover{
+    opacity:0.5
+}
+
+
+.highlight{
+    border:3px solid black;
+    border-radius: 50%;
+}
+
